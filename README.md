@@ -1,6 +1,7 @@
 Power BI Dashboard - Análise de Vendas
 Este repositório contém um dashboard interativo desenvolvido no Power BI para análise de vendas, que apresenta dados consolidados sobre receita, quantidades vendidas, descontos e outras métricas essenciais para o acompanhamento de performance.
 
+
 📊 Principais Métricas
 
 Receita Total: R$ 2,42 milhões
@@ -10,6 +11,7 @@ Quantidade Vendida: 26 mil itens
 Preço Médio Unitário: R$ 104,07
 
 Descontos: R$ 268 mil
+
 
 🎯 Visualizações Incluídas
 Receita por Categoria: Um gráfico de pizza que mostra a distribuição da receita entre diferentes categorias de produtos como Eletrônicos, Roupas, Móveis, Livros e Alimentos.
@@ -29,6 +31,7 @@ Linguagem DAX: Utilizada para criar medidas personalizadas.
 Fonte de Dados: Arquivo de vendas com dados fictícios de um período de 2 anos.
 
 
+
 🚀 Como Usar
 Clone este repositório:
 
@@ -39,6 +42,7 @@ Abra o arquivo .pbix no Power BI Desktop.
 
 Explore as visualizações e interaja com os filtros.
 
+
 📂 Arquivos do Repositório
 
 dashboard.pbix: Arquivo do Power BI contendo o dashboard.
@@ -46,6 +50,7 @@ dashboard.pbix: Arquivo do Power BI contendo o dashboard.
 image.png: Imagem do dashboard para visualização rápida.
 
 README.md: Este arquivo.
+
 
 📬 Contato
 Se você tiver dúvidas ou quiser discutir mais sobre o projeto, fique à vontade para me contatar pelo LinkedIn ou abrir uma issue aqui no GitHub.
