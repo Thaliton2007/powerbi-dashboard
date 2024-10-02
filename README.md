@@ -36,9 +36,6 @@ Fonte de Dados: Arquivo de vendas com dados fictícios de um período de 2 anos.
 
 Clone este repositório:
 
-dash
-Copiar código
-git clone https://github.com/seu-usuario/powerbi-dashboard.git
 Abra o arquivo .pbix no Power BI Desktop.
 
 Explore as visualizações e interaja com os filtros.
